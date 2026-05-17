@@ -28,8 +28,9 @@ Wykorzystanie sztucznej inteligencji w rybołówstwie przekształca tradycyjne p
 <img width="220" height="234" alt="image" src="https://github.com/user-attachments/assets/4806595c-432f-4599-8367-c07cec751b97" />
 
 ## 4. Przykłady zastosowań
-- Firmy i projekty stosujące AI do lokalizacji ryb i monitorowania ekosystemów.  
-- Wyniki wdrożeń: zwiększenie wydajności, ograniczenie strat i ochrona środowiska.
+Coraz więcej firm i projektów wykorzystuje sztuczną inteligencję do monitorowania zasobów wodnych oraz lokalizacji ryb. Dzięki zaawansowanym algorytmom analizy danych i obrazowania sonarowego możliwe jest precyzyjne określenie miejsc występowania ryb oraz ocenianie stanu ekosystemów wodnych. Wdrożenie takich rozwiązań przynosi wymierne korzyści: zwiększa efektywność połowów, minimalizuje straty i jednocześnie wspiera ochronę środowiska, pozwalając na prowadzenie gospodarki rybackiej w sposób bardziej zrównoważony.
+
+<img width="298" height="214" alt="image" src="https://media.tenor.com/U3aF2GfPYgoAAAAM/fish-break-free.gif" />
 
 ## Podsumowanie
 AI w rybołówstwie oferuje szansę na zwiększenie efektywności i zrównoważone gospodarowanie zasobami wodnymi.  

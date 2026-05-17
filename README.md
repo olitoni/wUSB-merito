@@ -25,21 +25,21 @@ Długie rejsy generują ogromne koszty związane przede wszystkim z zużyciem pa
 
 ## 3. Korzyści wynikające z użycia AI
 Wykorzystanie sztucznej inteligencji w rybołówstwie przekształca tradycyjne połowy w precyzyjny, oparty na danych proces. Algorytmy optymalizują trasy i czas połowów, wykorzystują wizję komputerową do ochrony zagrożonych gatunków, a także analizują warunki oceaniczne, wspierając długoterminową ochronę morskich ekosystemów i zarządzanie populacjami ryb.Rozwinięcie kluczowych korzyści:1. Zwiększenie efektywności połowówPrecyzyjne lokalizowanie ławic: Algorytmy analizują ogromne zbiory danych w czasie rzeczywistym, w tym temperaturę wody, zasolenie, prądy morskie i zapisy sonarowe. Pozwala to rybakom dokładnie przewidywać, gdzie znajdują się pożądane gatunki ryb, redukując czas poszukiwań i zużycie paliwa.Integracja z technologią sonarową: Nowoczesne sonary wspierane systemami uczącymi się potrafią odróżnić gatunki ryb i oszacować ich biomasę jeszcze zanim zostaną wyciągnięte z wody.2. Ograniczenie przypadkowych połowów (przyłowu)Wizja komputerowa i kamery podwodne: Inteligentne systemy monitorujące sieci i taśmy sortujące analizują obraz wideo na żywo. Algorytmy natychmiast rozpoznają niepożądane gatunki (np. delfiny, żółwie czy narybek) i mogą wywołać alarm lub otworzyć specjalne panele ucieczkowe, pozwalając im odpłynąć bez szwanku.Selektywne narzędzia połowowe: Systemy te pozwalają na automatyczne dostosowanie głębokości i czasu trałowania w taki sposób, aby odławiać wyłącznie ryby o określonej wielkości i gatunku.3. Lepsze zarządzanie zasobami wodnymi i ochrona ekosystemuMapowanie i monitoring floty: Organizacje takie jak Global Fishing Watch używają sztucznej inteligencji do analizowania zdjęć satelitarnych i śledzenia statków (nawet tych z wyłączonym systemem AIS), co pomaga w walce z nielegalnymi, nieraportowanymi i nieuregulowanymi połowami (IUU).Ochrona siedlisk: AI pomaga w identyfikacji i ochronie wrażliwych ekosystemów morskich (np. raf koralowych), sugerując trasy, które powinny zostać objęte zakazem połowów.Zarządzanie kwotami: Analiza predykcyjna pozwala naukowcom lepiej modelować dynamikę populacji ryb i ustalać bezpieczne limity połowowe, zapobiegając przełowieniu.
+
 <img width="220" height="234" alt="image" src="https://github.com/user-attachments/assets/4806595c-432f-4599-8367-c07cec751b97" />
 
 ## 4. Przykłady zastosowań
-- Firmy i projekty stosujące AI do lokalizacji ryb i monitorowania ekosystemów.  
-- Wyniki wdrożeń: zwiększenie wydajności, ograniczenie strat i ochrona środowiska.
+Coraz więcej firm i projektów wykorzystuje sztuczną inteligencję do monitorowania zasobów wodnych oraz lokalizacji ryb. Dzięki zaawansowanym algorytmom analizy danych i obrazowania sonarowego możliwe jest precyzyjne określenie miejsc występowania ryb oraz ocenianie stanu ekosystemów wodnych. Wdrożenie takich rozwiązań przynosi wymierne korzyści: zwiększa efektywność połowów, minimalizuje straty i jednocześnie wspiera ochronę środowiska, pozwalając na prowadzenie gospodarki rybackiej w sposób bardziej zrównoważony.
 
-## 5. Wyzwania i ograniczenia
-- Wysokie koszty wdrożenia technologii.  
-- Potrzeba odpowiednich danych i infrastruktury.  
-- Ryzyko nadmiernego polegania na technologii i utrata tradycyjnej wiedzy rybackiej.
+<img width="298" height="214" alt="image" src="https://media.tenor.com/U3aF2GfPYgoAAAAM/fish-break-free.gif" />
 
 ## Podsumowanie
-AI w rybołówstwie oferuje szansę na zwiększenie efektywności i zrównoważone gospodarowanie zasobami wodnymi.  
-Rozwój technologii przewiduje dalsze innowacje, które mogą znacząco zmienić sposób, w jaki pozyskujemy ryby.  
-Warto obserwować te zmiany i inwestować w badania oraz praktyczne zastosowania AI w branży rybnej.
+- **AI w rybołówstwie oferuje szansę na zwiększenie efektywności i zrównoważone gospodarowanie zasobami wodnymi**
+  - **Monitorowanie zasobów rybnych:** AI może analizować dane z sonarów, dronów i czujników w wodzie, aby śledzić populacje ryb i oceniać ich stan zdrowia.
+  - **Optymalizacja połowów:** Algorytmy uczące się mogą przewidywać miejsca i czasy największego zagęszczenia ryb, co pozwala minimalizować puste połowy i redukować marnotrawstwo.
+  - **Zarządzanie środowiskiem:** Systemy AI mogą analizować warunki wodne (np. temperaturę, natlenienie, zanieczyszczenia) i sugerować działania mające na celu ochronę ekosystemu.
+  - **Automatyzacja procesów rybackich:** Roboty i autonomiczne statki rybackie wspomagane AI mogą wykonywać rutynowe zadania szybciej i bezpieczniej dla ludzi.
+  - **Wczesne wykrywanie zagrożeń:** AI potrafi identyfikować ryzyka, takie jak choroby ryb czy inwazje gatunków obcych, co umożliwia szybką reakcję i ochronę bioróżnorodności.
 
 <img width="298" height="214" alt="image" src="https://github.com/user-attachments/assets/eec9a3ef-1f14-4af0-91a4-35334ffd3a7a" />
 

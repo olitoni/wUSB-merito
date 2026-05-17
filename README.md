@@ -6,9 +6,17 @@ Sztuczna inteligencja (AI) coraz częściej znajduje zastosowanie w różnych se
 Celem artykułu jest pokazanie, jak AI może wspierać efektywność połowów oraz zrównoważony rozwój branży rybnej.
 
 ## 1. Wyzwania w tradycyjnym rybołówstwie
-- Niewielka precyzja w lokalizacji ławic ryb.  
-- Przełowienie i degradacja ekosystemów wodnych.  
-- Wysokie koszty operacyjne i ryzyko ekonomiczne.
+
+### Niewielka precyzja w lokalizacji ławic ryb
+Tradycyjne metody opierają się głównie na historycznych danych, intuicji kapitanów oraz prostych narzędziach nawigacyjnych. W efekcie kutry rybackie spędzają długie dni na morzu, „ślepo” poszukując odpowiednich łowisk. Taki brak precyzji drasztycznie obniża efektywność wypraw i sprawia, że powodzenie całego przedsięwzięcia staje się w dużej mierze kwestią przypadku, a nie zaplanowanej strategii.
+
+### Przełowienie i degradacja ekosystemów wodnych
+Brak zaawansowanej kontroli nad ilością i gatunkiem wyławianych organizmów prowadzi do katastrofalnych skutków ekologicznych. Masowe, niekontrolowane odłowy uniemożliwiają naturalną regenerację populacji ryb, co zaburza cały morski łańcuch pokarmowy. Dodatkowo tradycyjne techniki, takie jak trałowanie denne, niszczą bezpowrotnie strukturę dna morskiego, w tym cenne rafy i siedliska wielu organizmów.
+
+### Wysokie koszty operacyjne i ryzyko ekonomiczne
+Długie rejsy generują ogromne koszty związane przede wszystkim z zużyciem paliwa, utrzymaniem załogi oraz amortyzacją sprzętu. Ponieważ tradycyjne rybołówstwo nie gwarantuje stałych i przewidywalnych zbiorów, każda wyprawa wiąże się z gigantycznym ryzykiem finansowym. W obliczu rosnących cen energii i malejących zasobów ryb, wiele tradycyjnych przedsiębiorstw rybackich balansuje na granicy opłacalności.
+
+<img width="298" height="214" alt="image" src="https://media.tenor.com/R5IECfIf34YAAAAd/fish-spinning.gif" />
 
 ## 2. Technologie AI stosowane w rybołówstwie
 - **Systemy predykcyjne** – analiza danych oceanograficznych pozwala przewidzieć, gdzie znajdują się ławice ryb.  

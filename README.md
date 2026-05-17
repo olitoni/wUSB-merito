@@ -29,11 +29,6 @@ Wykorzystanie sztucznej inteligencji w rybołówstwie przekształca tradycyjne p
 - Firmy i projekty stosujące AI do lokalizacji ryb i monitorowania ekosystemów.  
 - Wyniki wdrożeń: zwiększenie wydajności, ograniczenie strat i ochrona środowiska.
 
-## 5. Wyzwania i ograniczenia
-- Wysokie koszty wdrożenia technologii.  
-- Potrzeba odpowiednich danych i infrastruktury.  
-- Ryzyko nadmiernego polegania na technologii i utrata tradycyjnej wiedzy rybackiej.
-
 ## Podsumowanie
 AI w rybołówstwie oferuje szansę na zwiększenie efektywności i zrównoważone gospodarowanie zasobami wodnymi.  
 Rozwój technologii przewiduje dalsze innowacje, które mogą znacząco zmienić sposób, w jaki pozyskujemy ryby.  

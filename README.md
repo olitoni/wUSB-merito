@@ -34,6 +34,6 @@ AI w rybołówstwie oferuje szansę na zwiększenie efektywności i zrównoważo
 Rozwój technologii przewiduje dalsze innowacje, które mogą znacząco zmienić sposób, w jaki pozyskujemy ryby.  
 Warto obserwować te zmiany i inwestować w badania oraz praktyczne zastosowania AI w branży rybnej.
 
-<img width="498" height="358" alt="image" src="https://github.com/user-attachments/assets/eec9a3ef-1f14-4af0-91a4-35334ffd3a7a" />
+<img width="298" height="214" alt="image" src="https://github.com/user-attachments/assets/eec9a3ef-1f14-4af0-91a4-35334ffd3a7a" />
 
 
